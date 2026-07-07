@@ -1,5 +1,9 @@
 # 🔐 RSA Encrypted Group Chat App
 
+<p align="center">
+  <img src="<img width="1550" height="781" alt="RSA_chatbot_banner" src="https://github.com/user-attachments/assets/f049140b-a976-49ee-9886-adc340ffa253" />
+" width="100%">
+</p>
 Welcome to my **secure group chat application** built with Python! This app lets multiple users chat with each other in real-time, using **end-to-end RSA encryption** to keep every message private.
 
 It supports both **GUI** (with a clean interface) and **CLI** (command-line) modes for both the **server** and **clients**—so whether you're a terminal lover or prefer buttons and windows, you're covered.
