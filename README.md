@@ -1,7 +1,7 @@
 # 🔐 RSA Encrypted Group Chat App
 
 <p align="center">
-  <img src=""F:\linkedin\RSA_chatbot_banner.jpeg"" width="100%">
+  <img src="images/RSA_chatbot_banner.jpeg" width="100%">
 </p>
 Welcome to my **secure group chat application** built with Python! This app lets multiple users chat with each other in real-time, using **end-to-end RSA encryption** to keep every message private.
 
